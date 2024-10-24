@@ -25,20 +25,21 @@ The input image (`cat.jpg`) is read from the current directory. Users are given 
    
    The filter is applied separately to each color channel (red, green, and blue) using the `filter2()` function, ensuring the blur effect is consistent across the image's RGB components.
 
-<h1 align= "center">
 
- **Crop Square Position**
-</h1>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/ba161950-35fa-4aae-aae9-db6d43bbd725", width="620">
-</p>
+<h1>
 
-<h1 align= "center">
-
-**Blurred Image**
+**Crop Square Position**
 </h1>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0deea059-358c-4e11-bea2-edf2f3062067", width="620">
+</p>
+
+<h1>
+
+**Crop Position Blurred**
+</h1>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c823ba98-2885-43a2-b504-52815ad184a8", width="620">
 </p>
 
 ## How the Code Works:
