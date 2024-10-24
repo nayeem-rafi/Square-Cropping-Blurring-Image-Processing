@@ -27,6 +27,7 @@ The input image (`cat.jpg`) is read from the current directory. Users are given 
 
 
 <h1>
+<center>
 
 **Crop Square Position**
 </h1>
@@ -35,6 +36,7 @@ The input image (`cat.jpg`) is read from the current directory. Users are given 
 </p>
 
 <h1>
+<center>
 
 **Crop Position Blurred**
 </h1>
