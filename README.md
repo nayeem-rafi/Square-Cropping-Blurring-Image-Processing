@@ -1,0 +1,2 @@
+# Square Cropping Blurring Image Processing
+ This MATLAB code allows users to crop a portion of an image and applies a Gaussian blur to the cropped region. The image is read, and the user selects the crop area interactively. A Gaussian filter is then applied to the cropped section using the defined kernel size and standard deviation. The blurred portion is reinserted into the original image for display.
