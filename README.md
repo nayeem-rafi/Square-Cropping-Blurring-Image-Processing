@@ -1,7 +1,7 @@
 # Image Square Cropping and Blurring with Gaussian Filter
 
 By [Naimur Rahman](https://github.com/nayeem-rafi)
-## [Click for Project Video](https://drive.google.com/file/d/10Y8NESdtRl9rdsUXqGsuQxaCjPrHnmIU/view?usp=drivesdk)
+## [Click for Files](https://drive.google.com/drive/folders/1aYsiQ6l6xobzYM8NmtJ5ZH6Zgu7BMiFH?usp=drive_link)
 ## Introduction:
 This MATLAB project demonstrates how to interactively crop a portion of an image and apply a Gaussian blur filter to the cropped region. It showcases the practical use of image processing techniques like cropping, filtering, and channel-wise manipulation of an image.
 
@@ -38,7 +38,7 @@ The input image (`cat.jpg`) is read from the current directory. Users are given 
 **Blurred Image**
 </h1>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bbc89973-d107-4fc6-a700-130824be1727", width="620">
+<img src="https://github.com/user-attachments/assets/0deea059-358c-4e11-bea2-edf2f3062067", width="620">
 </p>
 
 ## How the Code Works:
