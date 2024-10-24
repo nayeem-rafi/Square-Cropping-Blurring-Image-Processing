@@ -35,11 +35,11 @@ The input image (`cat.jpg`) is read from the current directory. Users are given 
 <img src="https://github.com/user-attachments/assets/be99e105-2a94-43c6-8ea1-597fe8b8d650", width="620">
 </p>
 
-<h1>
+<h1 align= "center">
 
 
 **Crop Position Blurred**
-</h1 align= "center">
+</h1>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c823ba98-2885-43a2-b504-52815ad184a8", width="620">
 </p>
